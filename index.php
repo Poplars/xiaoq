@@ -9,4 +9,7 @@
 		echo $num1 . '比' . $num2 . '小';
 	}
 
+
+	print_r($num);
+
 ?>
